@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">HelloWorldApplication</string>
+    <string name="usuario">Usuário</string>
+    <string name="senha">Senha</string>
+    <string name="login">Login</string>
+    <string name="title_activity_bem_vindo">BemVindoActivity</string>
+</resources>
